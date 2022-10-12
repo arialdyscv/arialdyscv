@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arialdyscv
 - 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on any project that might help me learn and improve my knowledge 
 - 📫 How to reach me arialdyscv@gmail.com
 
